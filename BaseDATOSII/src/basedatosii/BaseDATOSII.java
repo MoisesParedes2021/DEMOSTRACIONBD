@@ -16,6 +16,9 @@ public class BaseDATOSII {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        int x=4;
+        int y=8;
+        System.out.println("La suma es: "+(x+y));
     }
     
 }
