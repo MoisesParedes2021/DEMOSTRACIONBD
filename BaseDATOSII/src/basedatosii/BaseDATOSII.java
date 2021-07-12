@@ -19,6 +19,7 @@ public class BaseDATOSII {
         int x=4;
         int y=8;
         System.out.println("La suma es: "+(x+y));
+        System.out.println("La suma es: "+(x-y));
     }
     
 }
